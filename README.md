@@ -32,7 +32,7 @@
     </li>
     <li>
       <a>
-        <b> K-Square Capstone Design Program at Purdue Univ </b>, 2021.10 ~ 12
+        <b> K-Square Capstone Design Program</b> at Purdue Univ , 2021.10 ~ 12
       </a>
     </li>
     <li>
