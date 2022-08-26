@@ -101,22 +101,13 @@
 
 <!--
 **KangYoungSeo/KangYoungSeo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
   
-
-
-
-
 🌱 Interested in
-
  I’m looking to collaborate on ...
-
 🤔 I’m looking for help with ...
-
-- 💬 
-
-- 📫 Contect me!
+💬 
+📫 Contect me!
 email : 
 
 - 😄 Pronouns: ...
