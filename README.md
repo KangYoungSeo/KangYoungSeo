@@ -6,9 +6,40 @@
 [![Blog](https://img.shields.io/badge/📝-Blog-yellow)](https://greedy-blow-you-away12.tistory.com/)
 
 
+<!--프로젝트-->
+<details open="open">
+  <summary><b>💻 Projects</b></summary>
+  <ul>
+    <li>
+      <a href= "">
+        한국어 손글씨 교정 및 연습 플랫폼 <b><가나다 받아쓰기></b> 어플리케이션 개발, 2022
+      </a>
+    </li>
+    <li>
+      <a href= "">
+        스마트미러를 활용한 노인 활동 증진 및 자세 교정 시스템 개발, 2022
+      </a>
+    </li>
+    <li>
+      <a href= "">
+        UAV와 IoT 센서 디바이스를 활용한 LoRa 통신 농장 화재 진압 시스템 개발	, 2022
+      </a>
+    </li>
+    <li>
+      <a href= "https://github.com/KangYoungSeo/2021_fall_BEEP">
+        UAV와 IoT 센서 디바이스를 활용한 LoRa 통신 농장 화재 진압 시스템 개발	, 2021
+      </a>
+    </li>
+  
+  </ul>
+</details>
+
+
+
+
 <!--경험-->
 <details open="open">
-  <summary><b>💻 Experience </b></summary>
+  <summary><b>🎈 Experience </b></summary>
   <ul>
     <li>
       <a>
@@ -60,7 +91,7 @@
       
 <!--수상내역-->
 <details open="open">
-  <summary><b>🎁 Awards</b></summary>
+  <summary><b>🏆 Awards</b></summary>
   <ul>
     </li>
       <a>
@@ -84,8 +115,14 @@
         기아자동차 주니어 글로벌 봉사단 라오스 파견, 2020.01
       </a>
     </li>
+    <li>
       <a>
         동국대학교 벽화봉사동아리 페인터즈, 2019.03 - 06
+      </a>
+    </li>
+    <li>
+      <a>
+        동국대학교 연합봉사동아리 KUSA(유네스코합생협회) , 2019.03 - 06
       </a>
     </li>
   </ul>
