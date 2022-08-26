@@ -17,32 +17,32 @@
     </li>
     <li>
       <a>
-        <B>모션 캡쳐를 이용한 동작인식<b> 연구원, 2022.05 ~
+        <b>모션 캡쳐를 이용한 동작인식</b> 연구원, 2022.05 ~
       </a>
     </li>
     <li>
       <a>
-        뉴로서킷 사 <b>두피 면적 및 탈모 감지 시스템 기획 및 인공지능 모델 개발<b> , 2022.03 ~ 06
+        뉴로서킷 사 <b>두피 면적 및 탈모 감지 시스템 기획 및 인공지능 모델 개발</b> , 2022.03 ~ 06
       </a>
     </li>
     <li>
       <a>
-        SW연계전공 <b>자료구조및알고리즘 튜터링 튜터<b> 활동, 2022.03 ~ 06
+        SW연계전공 <b>자료구조및알고리즘 튜터링 튜터</b> 활동, 2022.03 ~ 06
       </a>
     </li>
     <li>
       <a>
-        <b> K-Square Capstone Design Program at Purdue Univ <b>, 2021.10 ~ 12
+        <b> K-Square Capstone Design Program at Purdue Univ </b>, 2021.10 ~ 12
       </a>
     </li>
     <li>
       <a>
-        <b>Sun Quest Web developer internship<b> in NY, 2021.06 ~ 08
+        <b>Sun Quest Web developer internship</b> in NY, 2021.06 ~ 08
       </a>
     </li>
      <li>
       <a>
-        팜 동아리 <b>Python 교육 멘토링 멘토 활동<b>, 2021.05 ~ 08
+        팜 동아리 <b>Python 교육 멘토링 멘토 활동</b>, 2021.05 ~ 08
       </a>
     </li>
   </ul>
