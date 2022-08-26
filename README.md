@@ -4,14 +4,6 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/youngseo-kang-786b5b223/)](https://www.linkedin.com/in/youngseo-kang-786b5b223/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:zw791116@gmail.com)](mailto:zw791116@gmail.com)
 
-
-<!--
-**KangYoungSeo/KangYoungSeo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-  
-
-
 🔭 I’m currently working on ...
 
 2022년 9월 ~ : 동국대학교 창업동아리 앱 <팀 기역니은디귿> 
@@ -28,6 +20,15 @@ Here are some ideas to get you started:
 2019년 3월 ~ 6월 : 동국대학교 벽화봉사동아리 페인터즈
 2019년 3월 ~  : 다빈치 동아리
 2019년 3월 : 동국대학교 컴퓨터공학과 
+
+<!--
+**KangYoungSeo/KangYoungSeo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+  
+
+
+
 
 🌱 Interested in
 
