@@ -121,7 +121,7 @@
       
       
 <!--봉사활동-->
-<details open="open">
+<details>
   <summary><b>👯 Activities</b></summary>
   <ul>
     <li>
