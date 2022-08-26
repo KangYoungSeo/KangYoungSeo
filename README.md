@@ -20,18 +20,18 @@
         스마트미러를 활용한 노인 활동 증진 및 자세 교정 시스템 개발, 2022
       </a>
     </li>
-    
     <li>
       <a href= "https://github.com/KangYoungSeo/2021_fall_BEEP">
         UAV와 IoT 센서 디바이스를 활용한 LoRa 통신 농장 화재 진압 시스템 개발	, 2021
       </a>
     </li>
-  
     <li>
       <a href= "https://github.com/KangYoungSeo/2021-1-OSSP1-Debugger-4">
         이미지에서 마스크로 가려진 얼굴 부분을 본래의 얼굴로 채워주는 시스템	, 2022
       </a>
     </li>
+    
+    
     
   </ul>
 </details>
