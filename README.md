@@ -5,6 +5,8 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:zw791116@gmail.com)](mailto:zw791116@gmail.com)
 [![Blog](https://img.shields.io/badge/📝-Blog-yellow)](https://greedy-blow-you-away12.tistory.com/)
 
+[![Github]()] (https://github.com/KangYoungSeo)
+
 
 <!--프로젝트-->
 <details open="open">
@@ -128,7 +130,7 @@
       </a>
     </li>
     <li>
-      <a>
+      <a href= "https://youtu.be/F_IGPXhDUmY">
         동국대학교 벽화봉사동아리 페인터즈, 2019.03 - 06
       </a>
     </li>
