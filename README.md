@@ -3,7 +3,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/youngseo-kang-786b5b223/)](https://www.linkedin.com/in/youngseo-kang-786b5b223/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:zw791116@gmail.com)](mailto:zw791116@gmail.com)
-[![Blog](https://greedy-blow-you-away12.tistory.com/)](https://greedy-blow-you-away12.tistory.com/)
+[![Blog](https://img.shields.io/badge/📝-Blog-yellow)](https://greedy-blow-you-away12.tistory.com/)
 
 🔭 I’m currently working on ...
 
