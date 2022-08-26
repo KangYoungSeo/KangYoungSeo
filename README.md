@@ -125,12 +125,12 @@
   <summary><b>👯 Activities</b></summary>
   <ul>
     <li>
-      <a>
+      <a href= "https://youtu.be/F_IGPXhDUmY">
         기아자동차 주니어 글로벌 봉사단 라오스 파견, 2020.01
       </a>
     </li>
     <li>
-      <a href= "https://youtu.be/F_IGPXhDUmY">
+      <a>
         동국대학교 벽화봉사동아리 페인터즈, 2019.03 - 06
       </a>
     </li>
