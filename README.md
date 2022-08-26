@@ -42,7 +42,7 @@
 
 
 <!--프로젝트-->
-<details open="open">
+<details>
   <summary><b>💻 Projects</b></summary>
   <ul>
     <li>
@@ -85,7 +85,7 @@
 
 
 <!--경험-->
-<details open="open">
+<details>
   <summary><b>🎈 Experience </b></summary>
   <ul>
     <li>
@@ -137,7 +137,7 @@
 </details>
       
 <!--수상내역-->
-<details open="open">
+<details>
   <summary><b>🏆 Awards</b></summary>
   <ul>
     </li>
