@@ -26,8 +26,18 @@
       </a>
     </li>
     <li>
+      <a href= "https://github.com/KangYoungSeo/2021_fall_BEEP">
+        SunQuest Enterprise Uniform Website Project	, 2021
+      </a>
+    </li>
+    <li>
       <a href= "https://github.com/KangYoungSeo/2021-1-OSSP1-Debugger-4">
-        이미지에서 마스크로 가려진 얼굴 부분을 본래의 얼굴로 채워주는 시스템	, 2022
+        이미지에서 마스크로 가려진 얼굴 부분을 본래의 얼굴로 채워주는 시스템	, 2021
+      </a>
+    </li>
+    <li>
+      <a href= "https://github.com/KangYoungSeo/2021-summer-ArduinoIoT">
+        환경을 감지하는 스마트 IoT 조명 개발 프로젝트		, 2021
       </a>
     </li>
     
