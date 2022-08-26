@@ -60,7 +60,7 @@
       
 <!--수상내역-->
 <details open="open">
-  <summary><b>👯 Awards</b></summary>
+  <summary><b>🎁 Awards</b></summary>
   <ul>
     </li>
       <a>
