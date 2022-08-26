@@ -1,11 +1,12 @@
 ### Hi there 👋
 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/youngseo-kang-786b5b223/)](https://www.linkedin.com/in/youngseo-kang-786b5b223/)
+	
 <!--
 **KangYoungSeo/KangYoungSeo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/youngseo-kang-786b5b223/)](https://www.linkedin.com/in/youngseo-kang-786b5b223/)
-	
+  
 
 
 🔭 I’m currently working on ...
