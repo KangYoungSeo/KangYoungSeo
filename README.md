@@ -50,12 +50,12 @@
   <summary><b>💻 Projects</b></summary>
   <ul>
     <li>
-      <a href= "">
+      <a>
         한국어 손글씨 교정 및 연습 플랫폼 <b><가나다 받아쓰기></b> 어플리케이션 개발, 2022
       </a>
     </li>
     <li>
-      <a href= "">
+      <a>
         스마트미러를 활용한 노인 활동 증진 및 자세 교정 시스템 개발, 2022
       </a>
     </li>
@@ -70,7 +70,7 @@
       </a>
     </li>
     <li>
-      <a href= "https://github.com/KangYoungSeo/2021_fall_BEEP">
+      <a href= "https://github.com/KangYoungSeo/SunQuestUniform">
         SunQuest Enterprise Uniform Website Project	, 2021
       </a>
     </li>
