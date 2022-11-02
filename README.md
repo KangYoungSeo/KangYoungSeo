@@ -1,4 +1,4 @@
-### 사회를 좀 더 나은 방향으로 나아갈 수 있도록 돕는 human-friendly 기술을 개발하는 Developer
+### 사회적으로 도움을 줄 수 있는 human-friendly 기술을 개발하는 Developer
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/youngseo-kang-786b5b223/)](https://www.linkedin.com/in/youngseo-kang-786b5b223/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:zw791116@gmail.com)](mailto:zw791116@gmail.com)
