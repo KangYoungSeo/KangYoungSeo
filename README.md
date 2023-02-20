@@ -57,7 +57,7 @@
       </a>
     </li>
     <li>
-      <a>
+      <a href = "https://github.com/goto-West/gotowest-training-service">
         스마트미러를 활용한 노인 활동 증진 자세 교정 시스템 개발, 2022
       </a>
     </li>
