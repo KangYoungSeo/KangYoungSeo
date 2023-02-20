@@ -148,76 +148,29 @@
   <ul>
     <li>
       <a>
-        동국대학교 창업동아리 <b><기역니은디귿></b> 팀장, 2022.08 - current
+        2023 스타트업 캠퍼스 동국! 스타톤 경진대회 <b>최우수상 수상</b>, 2023.02
       </a>
     </li>
     <li>
       <a>
-        <b>모션 캡쳐를 이용한 동작인식</b> 연구원, 2022.05 - 12
+        모션 캡쳐를 이용한 동작인식 현대오토에버 배리어프리 앱 콘테스트 <b>우수상</b> 수상, 2023.02
       </a>
     </li>
     <li>
       <a>
-        SW연계전공 <b>자료구조및알고리즘 튜터링 튜터</b> 활동, 2022.03 - 06
+        2023 SINGAPORE EUREKA GLOBAL STARTUP CAMP <b>MOST CHALLENGE AWARD</b> , 2023.01
       </a>
     </li>
     <li>
       <a>
-        <b> K-Square Capstone Design Program</b> at Purdue Univ , 2021.10 - 12
+        현대오토에버 배리어프리 앱 콘테스트 <b>최종 제작지원팀</b> 선발, 2022.05
       </a>
     </li>
     <li>
       <a>
-        <b>Sun Quest Web developer internship</b> in NY, 2021.06 - 08
+        동국대학교 창의적공학설계 아이디어 경진대회 <b>은상 수상<b/>, 2019.01
       </a>
     </li>
-     <li>
-      <a>
-        팜 동아리 <b>Python 교육 멘토링 멘토 활동</b>, 2021.05 - 08
-      </a>
-    </li>
-    <li>
-      <a>
-        동국대학교 기술동아리 <b>Farm</b> 활동, 2020.04 - current
-      </a>
-    </li>
-    <li>
-      <a>
-        동국대학교 기술동아리 <b>다빈치</b> 활동, 2019.10 - current
-      </a>
-    </li>
-  </ul>
-  <ul>
-    <li>
-      <a>
-        2023 스타트업 캠퍼스 동국! 스타톤 경진대회 최우수상 수상, 2023.02
-      </a>
-    </li>
-    
-    <li>
-      <a>
-        현대오토에버 배리어프리 앱 콘테스트 우수상 수상, 2023.02
-      </a>
-    </li>
-    
-    <li>
-      <a>
-        2023 SINGAPORE EUREKA GLOBAL STARTUP CAMP, MOST CHALLENGE AWARD , 2023.01
-      </a>
-    </li>
-    
-    <li>
-      <a>
-        현대오토에버 배리어프리 앱 콘테스트 최종 제작지원팀 선발, 2022.05
-      </a>
-    </li>
-    
-    <li>
-      <a>
-        동국대학교 창의적공학설계 아이디어 경진대회 은상 수상, 2019.01
-      </a>
-    </li>
-    
   </ul>
 </details>
       
