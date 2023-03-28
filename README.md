@@ -152,7 +152,7 @@
       </a>
     </li>
     <li>
-      <a>
+      <a href= "https://www.youtube.com/watch?v=z-luSiJc_oY">
         현대오토에버 배리어프리 앱 개발 콘테스트 <b>우수상</b> 수상, 2023.02
       </a>
     </li>
