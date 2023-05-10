@@ -110,7 +110,7 @@
       </a>
     </li>
     <li>
-      <a>
+      <a href = "https://haruhangeul.my.canva.site/">
         동국대학교 창업동아리 <b><기역니은디귿></b> 팀장, 2022.08 - current
       </a>
     </li>
