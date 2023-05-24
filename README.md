@@ -51,11 +51,6 @@
   <summary><b>💻 Projects</b></summary>
   <ul>
     <li>
-      <a>
-        Airline Scheduling Crew Pairing 연구활동, 2023
-      </a>
-    </li>
-    <li>
       <a href= "https://play.google.com/store/apps/details?id=com.ganadadictation">
         한국어 손글씨 받아쓰기 연습 앱 <b><가나다 받아쓰기></b> 개발 및 런칭, 2022
       </a>
