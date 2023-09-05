@@ -119,7 +119,7 @@
       </a>
     </li>
     <li>
-      <a href = "https://youtu.be/s3n8Ey_cf3g">
+      <a>
         <b> K-Square Capstone Design Program</b> at Purdue Univ , 2021.10 - 12
       </a>
     </li>
