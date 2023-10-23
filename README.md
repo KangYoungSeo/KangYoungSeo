@@ -99,21 +99,25 @@
 <details>
   <summary><b>🎈 Experience </b></summary>
   <ul>
+    
     <li>
       <a>
         Microsoft AI school 3기, 2023.06 - current
       </a>
     </li>
+    
     <li>
       <a>
         2023 경기도 대학생 융합기술 창업지원 팀 선발, 2023.04 - current
       </a>
     </li>
+    
     <li>
       <a href = "https://haruhangeul.my.canva.site/">
         동국대학교 창업동아리 <b><기역니은디귿></b> 팀장, 2022.08 - current
       </a>
     </li>
+    
     <li>
       <a>
         <b>모션 캡쳐를 이용한 동작인식</b> 연구원, 2022.05 - 12
