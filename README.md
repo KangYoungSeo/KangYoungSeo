@@ -101,6 +101,11 @@
   <ul>
     <li>
       <a>
+        Microsoft AI school 3기, 2023.06 - current
+      </a>
+    </li>
+    <li>
+      <a>
         2023 경기도 대학생 융합기술 창업지원 팀 선발, 2023.04 - current
       </a>
     </li>
