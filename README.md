@@ -101,7 +101,7 @@
   <ul>
     <li>
       <a>
-        Microsoft AI school 3기, 2023.06 - current
+        Microsoft <b>MS AI school 3기</b>, 2023.06 - current
       </a>
     </li>
     <li>
@@ -114,7 +114,6 @@
         동국대학교 창업동아리 <b><기역니은디귿></b> 팀장, 2022.08 - current
       </a>
     </li>
-    
     <li>
       <a>
         <b>모션 캡쳐를 이용한 동작인식</b> 연구원, 2022.05 - 12
