@@ -8,7 +8,7 @@
 <b>🧠algorithm : </b>
 <a href = "https://github.com/KangYoungSeo/algorithm-solutions">archive</a>
 
-<summary><b>📚 Stacks</b></summary>
+<b>📚 Stacks</b>
 <div align=center> 
   <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
