@@ -5,7 +5,8 @@
 [![Blog](https://img.shields.io/badge/📝-Blog-yellow)](https://greedy-blow-you-away12.tistory.com/)
 
 
-<b>💻 Projects</b>
+<b>🧠 algorithm </b>
+<a href = "https://github.com/KangYoungSeo/algorithm-solutions">4년간 알고리즘 아카이브</a>
 
 <summary><b>📚 Stacks</b></summary>
 <div align=center> 
@@ -238,8 +239,7 @@
 2019년 3월 ~  : 다빈치 동아리
 2019년 3월 : 동국대학교 컴퓨터공학과
 
-<b>🧠 algorithm </b>
-<a href = "https://github.com/KangYoungSeo/algorithm-solutions">4년간 알고리즘 아카이브</a>
+
 </br>
 
 <!--
